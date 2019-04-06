@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.praxisprojekt.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\Admin\\Documents\\Unity Projects\\Praxisprojekt\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Praxisprojekt [Testing]"
+        }
+      }
+    }
+  ]
+}
