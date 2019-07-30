@@ -49,7 +49,7 @@ public class Texture : MonoBehaviour
         }
     }
 
-    [SerializeField] bool invertY_ = false;
+    [SerializeField] bool invertY_;
     public bool invertY
     {
         get 
