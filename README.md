@@ -1,6 +1,4 @@
 # PPSS19Geier
-Praktischer Vorbereitungsteil zur Implementation haptischen Renderns
-
 Dieses Repository ist der praktische Teil eines Praxisprojektes, das im gleichnamigen Modul des Bachelorstudienganges 
 “Medieninformatik” an der TH Köln bearbeitet und dokumentiert wurde. Ziel dieses Praxisprojektes war es, sich auf das 
 Entwickeln einer haptischen VR-Anwendung vorzubereiten. 
